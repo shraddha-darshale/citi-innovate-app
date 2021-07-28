@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  solicitation_name: MyString
+  title: MyString
+  assignee: MyString
+  due_date: 2021-07-28
+  label: MyString
+  description: MyText
+
+two:
+  solicitation_name: MyString
+  title: MyString
+  assignee: MyString
+  due_date: 2021-07-28
+  label: MyString
+  description: MyText
